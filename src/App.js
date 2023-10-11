@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import Navbar from '../components/Navbar';
-import Characters from '../components/Characters';
-import Pagination from '../components/Pagination';
-import Search from '../components/Search';
+import Navbar from './Navbar';
+import Characters from './Characters';
+import Pagination from './Pagination';
+import Search from './Search';
 
 function App() {
 
