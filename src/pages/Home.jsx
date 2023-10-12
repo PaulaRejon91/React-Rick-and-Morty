@@ -1,5 +1,5 @@
 import React from 'react';
-import App from './App'; // Importa el componente App
+import App from '../components/App'; // Importa el componente App
 
 const Home = () => {
   return (
